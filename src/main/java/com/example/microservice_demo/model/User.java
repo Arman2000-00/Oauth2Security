@@ -3,7 +3,7 @@ package com.example.microservice_demo.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.security.oauth2.core.OAuth2AccessToken;
+
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;
